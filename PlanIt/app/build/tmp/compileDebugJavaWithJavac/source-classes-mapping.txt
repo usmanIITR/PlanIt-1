@@ -1,0 +1,12 @@
+com/example/planit/BuildConfig.java
+ com.example.planit.BuildConfig
+com/example/planit/splashScreenAct.java
+ com.example.planit.splashScreenAct
+ com.example.planit.splashScreenAct$1
+com/example/planit/Model/ToDoModel.java
+ com.example.planit.Model.ToDoModel
+com/example/planit/Adapter/ToDoAdapter.java
+ com.example.planit.Adapter.ToDoAdapter
+ com.example.planit.Adapter.ToDoAdapter$ViewHolder
+com/example/planit/MainActivity.java
+ com.example.planit.MainActivity
